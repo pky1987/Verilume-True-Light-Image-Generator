@@ -1,8 +1,14 @@
 # ✨ Verilume: True Light Image Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Gradio](https://img.shields.io/badge/Gradio-App-orange.svg)](https://gradio.app/)
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white" />
+<img src="https://img.shields.io/badge/-MIT%20License-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/-Diffusers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/-Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/-DashScope-6C63FF?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pillow-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 **Verilume** is a high-fidelity image generation and editing framework built upon the **Qwen-Image** series. It integrates state-of-the-art prompt engineering with large-scale vision-language models to provide precise, semantic, and visually stunning results.
 
